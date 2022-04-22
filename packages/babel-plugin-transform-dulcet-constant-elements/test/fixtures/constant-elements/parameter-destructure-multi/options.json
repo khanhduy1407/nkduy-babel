@@ -1,0 +1,4 @@
+{
+
+  "plugins": ["transform-es2015-destructuring", "transform-es2015-parameters", "transform-dulcet-constant-elements", "syntax-jsx"]
+}

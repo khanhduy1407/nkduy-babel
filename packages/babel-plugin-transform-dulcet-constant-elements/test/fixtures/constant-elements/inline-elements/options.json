@@ -1,0 +1,3 @@
+{
+  "plugins": ["transform-dulcet-constant-elements", "transform-dulcet-inline-elements", "syntax-jsx"]
+}
