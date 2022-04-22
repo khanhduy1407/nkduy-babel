@@ -1,0 +1,3 @@
+({
+  foo: Dulcet.createClass({})
+});
