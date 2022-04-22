@@ -1,0 +1,3 @@
+{
+  "plugins": [["transform-dulcet-jsx", "foo.bar"]]
+}
