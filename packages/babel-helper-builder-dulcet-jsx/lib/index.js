@@ -152,7 +152,7 @@ var _esutils = require("esutils");
 
 var _esutils2 = _interopRequireDefault(_esutils);
 
-var _babelTypes = require("babel-types");
+var _babelTypes = require("@nkduy/babel-types");
 
 var t = _interopRequireWildcard(_babelTypes);
 
