@@ -1,0 +1,53 @@
+{
+  "name": "@nkduy/babel-core",
+  "version": "6.24.1",
+  "description": "Babel compiler core.",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-core",
+  "keywords": [
+    "6to5",
+    "babel",
+    "classes",
+    "const",
+    "es6",
+    "harmony",
+    "let",
+    "modules",
+    "transpile",
+    "transpiler",
+    "var",
+    "babel-core",
+    "compiler"
+  ],
+  "scripts": {
+    "bench": "make bench",
+    "test": "make test"
+  },
+  "dependencies": {
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babel-generator": "^6.24.1",
+    "@nkduy/babel-helpers": "^6.22.0",
+    "@nkduy/babel-messages": "^6.23.0",
+    "@nkduy/babel-template": "^6.24.1",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-register": "^6.24.1",
+    "@nkduy/babel-traverse": "^6.24.1",
+    "@nkduy/babylon": "^6.11.0",
+    "babel-code-frame": "^6.22.0",
+    "convert-source-map": "^1.1.0",
+    "debug": "^2.1.1",
+    "json5": "^0.5.0",
+    "lodash": "^4.2.0",
+    "minimatch": "^3.0.2",
+    "path-is-absolute": "^1.0.0",
+    "private": "^0.1.6",
+    "slash": "^1.0.0",
+    "source-map": "^0.5.0"
+  },
+  "devDependencies": {
+    "@nkduy/babel-helper-fixtures": "^6.22.0",
+    "@nkduy/babel-helper-transform-fixture-test-runner": "^6.24.1",
+    "@nkduy/babel-polyfill": "^6.23.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nkduy/babel-helper-transform-fixture-test-runner",
+  "version": "6.24.1",
+  "description": "Transform test runner for babel-helper-fixtures module",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-helper-transform-fixture-test-runner",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-core": "^6.24.1",
+    "@nkduy/babel-polyfill": "^6.23.0",
+    "@nkduy/babel-helper-fixtures": "^6.22.0",
+    "source-map": "^0.5.0",
+    "babel-code-frame": "^6.22.0",
+    "chai": "^3.0.0",
+    "lodash": "^4.2.0"
+  }
+}

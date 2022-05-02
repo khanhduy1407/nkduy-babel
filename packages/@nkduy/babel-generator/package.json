@@ -1,0 +1,26 @@
+{
+  "name": "@nkduy/babel-generator",
+  "version": "6.24.1",
+  "description": "Turns an AST into code.",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-generator",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@nkduy/babel-messages": "^6.23.0",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-types": "^6.24.4",
+    "detect-indent": "^4.0.0",
+    "jsesc": "^1.3.0",
+    "lodash": "^4.2.0",
+    "source-map": "^0.5.0",
+    "trim-right": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nkduy/babel-helper-fixtures": "^6.22.0",
+    "@nkduy/babylon": "^6.11.0"
+  }
+}

@@ -1,18 +1,18 @@
 {
   "name": "@nkduy/babel-types",
-  "version": "6.24.1",
+  "version": "6.24.4",
   "description": "Babel Types is a Lodash-esque utility library for AST nodes",
   "author": "NKDuy <kn145660@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-types",
   "main": "lib/index.js",
   "dependencies": {
-    "babel-runtime": "^6.22.0",
+    "@nkduy/babel-runtime": "^6.22.0",
     "esutils": "^2.0.2",
     "lodash": "^4.2.0",
     "to-fast-properties": "^1.0.1"
   },
   "devDependencies": {
-    "babylon": "^6.8.2"
+    "@nkduy/babylon": "^6.11.0"
   }
 }

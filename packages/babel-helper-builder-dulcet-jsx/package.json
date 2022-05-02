@@ -1,13 +1,13 @@
 {
   "name": "babel-helper-builder-dulcet-jsx",
-  "version": "6.24.2",
+  "version": "6.24.5",
   "description": "Helper function to build dulcet jsx",
   "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/babel-helper-builder-dulcet-jsx",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "@nkduy/babel-types": "^6.24.1",
-    "babel-runtime": "^6.22.0",
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babel-runtime": "^6.22.0",
     "esutils": "^2.0.0"
   }
 }

@@ -2,7 +2,7 @@
 
 exports.__esModule = true;
 
-var _getIterator2 = require("babel-runtime/core-js/get-iterator");
+var _getIterator2 = require("@nkduy/babel-runtime/core-js/get-iterator");
 
 var _getIterator3 = _interopRequireDefault(_getIterator2);
 

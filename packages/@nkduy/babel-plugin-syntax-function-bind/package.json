@@ -1,0 +1,13 @@
+{
+  "name": "@nkduy/babel-plugin-syntax-function-bind",
+  "version": "6.13.0",
+  "description": "Allow parsing of function bind",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-plugin-syntax-function-bind",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

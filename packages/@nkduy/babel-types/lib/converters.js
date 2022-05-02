@@ -2,15 +2,15 @@
 
 exports.__esModule = true;
 
-var _maxSafeInteger = require("babel-runtime/core-js/number/max-safe-integer");
+var _maxSafeInteger = require("@nkduy/babel-runtime/core-js/number/max-safe-integer");
 
 var _maxSafeInteger2 = _interopRequireDefault(_maxSafeInteger);
 
-var _stringify = require("babel-runtime/core-js/json/stringify");
+var _stringify = require("@nkduy/babel-runtime/core-js/json/stringify");
 
 var _stringify2 = _interopRequireDefault(_stringify);
 
-var _getIterator2 = require("babel-runtime/core-js/get-iterator");
+var _getIterator2 = require("@nkduy/babel-runtime/core-js/get-iterator");
 
 var _getIterator3 = _interopRequireDefault(_getIterator2);
 

@@ -1,0 +1,12 @@
+{
+  "name": "@nkduy/babel-helper-plugin-test-runner",
+  "version": "6.22.0",
+  "description": "Helper function to support test runner",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-helper-plugin-test-runner",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-helper-transform-fixture-test-runner": "^6.24.1"
+  }
+}

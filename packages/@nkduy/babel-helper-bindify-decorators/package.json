@@ -1,0 +1,13 @@
+{
+  "name": "@nkduy/babel-helper-bindify-decorators",
+  "version": "6.22.0",
+  "description": "Helper function to bindify decorators",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-helper-bindify-decorators",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-traverse": "^6.24.1",
+    "@nkduy/babel-types": "^6.24.4"
+  }
+}

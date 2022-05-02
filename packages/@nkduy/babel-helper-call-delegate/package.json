@@ -1,0 +1,14 @@
+{
+  "name": "@nkduy/babel-helper-call-delegate",
+  "version": "6.22.0",
+  "description": "Helper function to call delegate",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-helper-call-delegate",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-traverse": "^6.24.1",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babel-helper-hoist-variables": "^6.22.0"
+  }
+}

@@ -3,15 +3,15 @@
 exports.__esModule = true;
 exports.DEPRECATED_KEYS = exports.BUILDER_KEYS = exports.NODE_FIELDS = exports.ALIAS_KEYS = exports.VISITOR_KEYS = undefined;
 
-var _getIterator2 = require("babel-runtime/core-js/get-iterator");
+var _getIterator2 = require("@nkduy/babel-runtime/core-js/get-iterator");
 
 var _getIterator3 = _interopRequireDefault(_getIterator2);
 
-var _stringify = require("babel-runtime/core-js/json/stringify");
+var _stringify = require("@nkduy/babel-runtime/core-js/json/stringify");
 
 var _stringify2 = _interopRequireDefault(_stringify);
 
-var _typeof2 = require("babel-runtime/helpers/typeof");
+var _typeof2 = require("@nkduy/babel-runtime/helpers/typeof");
 
 var _typeof3 = _interopRequireDefault(_typeof2);
 

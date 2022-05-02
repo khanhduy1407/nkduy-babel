@@ -1,0 +1,16 @@
+{
+  "name": "@nkduy/babel-template",
+  "version": "6.24.1",
+  "description": "Generate an AST from a string template.",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-template",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babylon": "^6.11.0",
+    "@nkduy/babel-traverse": "^6.24.1",
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "lodash": "^4.2.0"
+  }
+}

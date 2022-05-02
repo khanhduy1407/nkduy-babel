@@ -1,0 +1,13 @@
+{
+  "name": "@nkduy/babel-plugin-syntax-export-extensions",
+  "version": "6.13.0",
+  "description": "Allow parsing of export extensions",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-plugin-syntax-export-extensions",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

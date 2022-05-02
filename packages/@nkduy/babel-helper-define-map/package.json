@@ -1,0 +1,14 @@
+{
+  "name": "@nkduy/babel-helper-define-map",
+  "version": "6.22.0",
+  "description": "Helper function to define a map",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-helper-define-map",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babel-helper-function-name": "^6.22.0",
+    "lodash": "^4.2.0"
+  }
+}

@@ -2,7 +2,7 @@
 
 exports.__esModule = true;
 
-var _create = require("babel-runtime/core-js/object/create");
+var _create = require("@nkduy/babel-runtime/core-js/object/create");
 
 var _create2 = _interopRequireDefault(_create);
 

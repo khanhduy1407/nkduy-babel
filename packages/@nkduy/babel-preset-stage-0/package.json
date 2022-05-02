@@ -1,0 +1,14 @@
+{
+  "name": "@nkduy/babel-preset-stage-0",
+  "version": "6.22.0",
+  "description": "Babel preset for stage 0 plugins",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy/babel/tree/master/packages/@nkduy/babel-preset-stage-0",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-plugin-transform-do-expressions": "^6.22.0",
+    "@nkduy/babel-plugin-transform-function-bind": "^6.22.0",
+    "@nkduy/babel-preset-stage-1": "^6.22.0"
+  }
+}

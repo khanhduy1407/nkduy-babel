@@ -1,3 +1,0 @@
-{
-  "plugins": [["transform-dulcet-jsx", { "useBuiltIns": true }]]
-}

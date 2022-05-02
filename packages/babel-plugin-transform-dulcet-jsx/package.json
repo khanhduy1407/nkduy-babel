@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-dulcet-jsx",
-  "version": "6.24.2",
+  "version": "6.24.5",
   "description": "Turn JSX into Dulcet function calls",
   "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/babel-plugin-transform-dulcet-jsx",
   "license": "MIT",
@@ -9,11 +9,11 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "babel-runtime": "^6.22.0",
-    "babel-helper-builder-dulcet-jsx": "^6.24.2",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "babel-helper-builder-dulcet-jsx": "^6.24.5",
     "babel-plugin-syntax-jsx": "^6.8.0"
   },
   "devDependencies": {
-    "babel-helper-plugin-test-runner": "^6.24.1"
+    "@nkduy/babel-helper-plugin-test-runner": "^6.22.0"
   }
 }

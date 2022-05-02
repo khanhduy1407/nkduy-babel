@@ -1,0 +1,15 @@
+{
+  "name": "@nkduy/babel-preset-stage-2",
+  "version": "6.22.0",
+  "description": "Babel preset for stage 2 plugins",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-preset-stage-2",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-plugin-transform-class-properties": "^6.22.0",
+    "@nkduy/babel-plugin-transform-decorators": "^6.22.0",
+    "@nkduy/babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "@nkduy/babel-preset-stage-3": "^6.22.0"
+  }
+}

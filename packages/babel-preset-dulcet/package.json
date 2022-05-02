@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-dulcet",
-  "version": "6.24.2",
+  "version": "6.24.5",
   "description": "Babel preset for all Dulcet plugins.",
   "author": "NKDuy <kn145660@gmail.com>",
   "license": "MIT",
@@ -9,9 +9,9 @@
   "dependencies": {
     "babel-preset-flow": "^6.23.0",
     "babel-plugin-syntax-jsx": "^6.3.13",
-    "babel-plugin-transform-dulcet-display-name": "^6.23.0",
-    "babel-plugin-transform-dulcet-jsx": "^6.24.2",
-    "babel-plugin-transform-dulcet-jsx-source": "^6.22.0",
-    "babel-plugin-transform-dulcet-jsx-self": "^6.22.0"
+    "babel-plugin-transform-dulcet-display-name": "^6.23.1",
+    "babel-plugin-transform-dulcet-jsx": "^6.24.5",
+    "babel-plugin-transform-dulcet-jsx-source": "^6.22.1",
+    "babel-plugin-transform-dulcet-jsx-self": "^6.22.1"
   }
 }

@@ -1,4 +1,0 @@
-{
-  "plugins": [["transform-dulcet-jsx", { "useBuiltIns": "invalidOption" }]],
-  "throws": "transform-dulcet-jsx currently only accepts a boolean option for useBuiltIns (defaults to false)"
-}

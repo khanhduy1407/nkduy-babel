@@ -1,0 +1,23 @@
+{
+  "name": "@nkduy/babel-traverse",
+  "version": "6.24.1",
+  "description": "The Babel Traverse module maintains the overall tree state, and is responsible for replacing, removing, and adding nodes",
+  "author": "NKDuy <kn145660@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/khanhduy1407/nkduy-babel/tree/master/packages/@nkduy/babel-traverse",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@nkduy/babel-messages": "^6.23.0",
+    "@nkduy/babel-runtime": "^6.22.0",
+    "@nkduy/babel-types": "^6.24.4",
+    "@nkduy/babylon": "^6.11.0",
+    "babel-code-frame": "^6.22.0",
+    "debug": "^2.2.0",
+    "globals": "^9.0.0",
+    "invariant": "^2.2.0",
+    "lodash": "^4.2.0"
+  },
+  "devDependencies": {
+    "@nkduy/babel-generator": "^6.24.1"
+  }
+}
