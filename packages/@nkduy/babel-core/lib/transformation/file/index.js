@@ -75,7 +75,7 @@ var _store = require("../../store");
 
 var _store2 = _interopRequireDefault(_store);
 
-var _babylon = require("babylon");
+var _babylon = require("@nkduy/babylon");
 
 var _util = require("../../util");
 

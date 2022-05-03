@@ -1,6 +1,6 @@
 {
   "name": "@nkduy/babel-core",
-  "version": "6.24.1",
+  "version": "6.24.2",
   "description": "Babel compiler core.",
   "author": "NKDuy <kn145660@gmail.com>",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "@nkduy/babel-messages": "^6.23.0",
     "@nkduy/babel-template": "^6.24.1",
     "@nkduy/babel-runtime": "^6.22.0",
-    "@nkduy/babel-register": "^6.24.1",
+    "@nkduy/babel-register": "^6.24.2",
     "@nkduy/babel-traverse": "^6.24.1",
     "@nkduy/babylon": "^6.11.0",
     "babel-code-frame": "^6.22.0",
